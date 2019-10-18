@@ -1,0 +1,50 @@
+*{
+  margin: 0px;
+}
+body{
+  margin-top: 0px;
+}
+#header
+{
+  padding-left: 20%;
+  padding-top: 20px;
+  height: 80px;
+  background-color: rgb(19,7,156);
+  color: white;
+}
+#box
+{
+  display: block;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 150px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+.loginform{
+  width: 500px;
+  height: 200px;
+  border: solid 1px rgb(19,7,156);
+  border-radius: 2px;
+  background-color: rgb(208,218,251);
+}
+#box h2{
+  padding-top: 10px;
+  padding-left: 20px;
+}
+#box form{
+  padding-top: 15px;
+  padding-left: 30px;
+}
+.button{
+  width: 100px;
+}
+.loginform a{
+  float: none;
+  color: black;
+
+}
+#box input{
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
